@@ -1,2 +1,4 @@
 Flask
-flask-restplus
+flask-apispec
+flask-sqlalchemy
+flask-cors

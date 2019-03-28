@@ -1,2 +1,6 @@
 Flask
 flask-restplus
+flask-sqlalchemy
+pytest
+coverage
+pytest-cov
